@@ -1,0 +1,70 @@
+Import('*')
+import os
+SimObject('SysXelerator.py', sim_objects=['SysXelerator'])
+
+Source('SysXelerator.cc')
+Source('model/processingElement/ProcessingElementVC.cpp')
+
+Source('model/processingElement/ProcessingElement.cpp')
+
+Source('utils/Structures.cpp')
+Source('utils/GlobalResources.cpp')
+# Source('model/processingElement/ProcessingElementVC.h')
+Source('model/traffic/task/TaskPool.cpp')
+Source('model/traffic/TrafficPool.cpp')
+Source('model/traffic/Packet.cpp')
+Source('model/traffic/Flit.cpp')
+Source('utils/PacketFactory.cpp')
+Source('utils/Report.cpp')
+# Source('utils/GlobalReport.cpp')
+# Source('utils/Statistics.cpp')
+
+
+
+extensions=['.cpp', '.c', '.cc']
+for directory in ["model","utils"]:
+    for root, dirs, files in os.walk(directory):
+        # print(root)
+        for file in files:
+
+            # if "pugi" in file:
+                # print("PUGI IN FILE")
+                # print(file)
+            if file[-2:]==".h" and not("NetworkParticipant" in file)and not("BaseRouting" in file)and not("Container" in file)and not("TaskPacket" in file)and not("portsOpenConst" in file):
+                file=file[:-2]+".cpp"
+            else:
+                file=""
+            # print("HI")
+            # print(file)
+            if any(file.endswith(ext) for ext in extensions):
+                # print(os.path.join(root, file))
+                pathh=os.path.join(root, file)
+
+                # if "pugi" in pathh:
+                    # print("PUGI IN FILE")
+                    # print(file)
+                if not("NoC" in  pathh):
+                    Source(pathh)
+
+Source('utils/pugixml.cpp')
+
+DebugFlag('SysXelerator', "For debugging the gemmini device A")
+DebugFlag('SysXeleratorPI', "For debugging the PI of the gemmini device A")
+DebugFlag('SysXeleratorMem', "For debugging the Mem interface of the gemmini device A")
+DebugFlag('SysXeleratorFSM', "For debugging The Accelerator FSM")
+DebugFlag('AccelInit', "Init of task model ")
+DebugFlag('AccelTrafficTrace', "Trace of the traffic between accelerators")
+DebugFlag('AccelTrafficTraceReduced', "Reduced version for traffic trace between accelerators. Only one message per transmission.")
+DebugFlag('AccelInternalTraffic', "Traffic in the accelerator")
+DebugFlag('SysXelerator_Scratchpad', "Debug information for the scratchpad")
+DebugFlag('SysXelerator_Memory', "Debug information for reading weights")
+DebugFlag('SysXelerator_Compute', "Debug information for compute operations")
+DebugFlag('SysXelerator_ActivationsDetailed', "Detailed debug information for activations")
+
+DebugFlag('SysXelerator_Activations', "Debug information for activations")
+DebugFlag('SysXelerator_Task', "Debug information for task operations")
+DebugFlag('SysXelerator_Weights', "Init of the Task operations")
+
+DebugFlag('TaskPEInit', "Init of the Task PEs")
+DebugFlag('TaskPEOp', "All kinds of messages during the operation of the PE")
+DebugFlag('TaskPETraffic', "All important messages related to the sending and receiving of data")

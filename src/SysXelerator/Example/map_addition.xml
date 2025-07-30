@@ -1,0 +1,857 @@
+<?xml version="1.0" ?>
+<map_address>
+  <bind>
+    <task value="0"/>
+    <address value="0x40001000"/>
+  </bind>
+  <bind>
+    <task value="1"/>
+    <address value="0x40a8f815"/>
+  </bind>
+  <bind>
+    <task value="2"/>
+    <address value="0x4151e02a"/>
+  </bind>
+  <bind>
+    <task value="3"/>
+    <address value="0x41fac83f"/>
+  </bind>
+  <bind>
+    <task value="4"/>
+    <address value="0x42a3b054"/>
+  </bind>
+  <bind>
+    <task value="5"/>
+    <address value="0x434c9869"/>
+  </bind>
+  <bind>
+    <task value="6"/>
+    <address value="0x43f5807e"/>
+  </bind>
+  <bind>
+    <task value="7"/>
+    <address value="0x449e6893"/>
+  </bind>
+  <bind>
+    <task value="8"/>
+    <address value="0x454750a8"/>
+  </bind>
+  <bind>
+    <task value="9"/>
+    <address value="0x45f038bd"/>
+  </bind>
+  <bind>
+    <task value="10"/>
+    <address value="0x469920d2"/>
+  </bind>
+  <bind>
+    <task value="11"/>
+    <address value="0x474208e7"/>
+  </bind>
+  <bind>
+    <task value="12"/>
+    <address value="0x47eaf0fc"/>
+  </bind>
+  <bind>
+    <task value="13"/>
+    <address value="0x4893d911"/>
+  </bind>
+  <bind>
+    <task value="14"/>
+    <address value="0x493cc126"/>
+  </bind>
+  <bind>
+    <task value="15"/>
+    <address value="0x49e5a93b"/>
+  </bind>
+  <bind>
+    <task value="16"/>
+    <address value="0x4a8e9150"/>
+  </bind>
+  <bind>
+    <task value="17"/>
+    <address value="0x4b377965"/>
+  </bind>
+  <bind>
+    <task value="18"/>
+    <address value="0x4be0617a"/>
+  </bind>
+  <bind>
+    <task value="19"/>
+    <address value="0x4c89498f"/>
+  </bind>
+  <bind>
+    <task value="20"/>
+    <address value="0x4d3231a4"/>
+  </bind>
+  <bind>
+    <task value="21"/>
+    <address value="0x4ddb19b9"/>
+  </bind>
+  <bind>
+    <task value="22"/>
+    <address value="0x4e8401ce"/>
+  </bind>
+  <bind>
+    <task value="23"/>
+    <address value="0x4f2ce9e3"/>
+  </bind>
+  <bind>
+    <task value="24"/>
+    <address value="0x4fd5d1f8"/>
+  </bind>
+  <bind>
+    <task value="25"/>
+    <address value="0x507eba0d"/>
+  </bind>
+  <bind>
+    <task value="26"/>
+    <address value="0x5127a222"/>
+  </bind>
+  <bind>
+    <task value="27"/>
+    <address value="0x51d08a37"/>
+  </bind>
+  <bind>
+    <task value="28"/>
+    <address value="0x5279724c"/>
+  </bind>
+  <bind>
+    <task value="29"/>
+    <address value="0x53225a61"/>
+  </bind>
+  <bind>
+    <task value="30"/>
+    <address value="0x53cb4276"/>
+  </bind>
+  <bind>
+    <task value="31"/>
+    <address value="0x54742a8b"/>
+  </bind>
+  <bind>
+    <task value="32"/>
+    <address value="0x551d12a0"/>
+  </bind>
+  <bind>
+    <task value="33"/>
+    <address value="0x55c5fab5"/>
+  </bind>
+  <bind>
+    <task value="34"/>
+    <address value="0x566ee2ca"/>
+  </bind>
+  <bind>
+    <task value="35"/>
+    <address value="0x5717cadf"/>
+  </bind>
+  <bind>
+    <task value="36"/>
+    <address value="0x57c0b2f4"/>
+  </bind>
+  <bind>
+    <task value="37"/>
+    <address value="0x58699b09"/>
+  </bind>
+  <bind>
+    <task value="38"/>
+    <address value="0x5912831e"/>
+  </bind>
+  <bind>
+    <task value="39"/>
+    <address value="0x59bb6b33"/>
+  </bind>
+  <bind>
+    <task value="40"/>
+    <address value="0x5a645348"/>
+  </bind>
+  <bind>
+    <task value="41"/>
+    <address value="0x5b0d3b5d"/>
+  </bind>
+  <bind>
+    <task value="42"/>
+    <address value="0x5bb62372"/>
+  </bind>
+  <bind>
+    <task value="43"/>
+    <address value="0x5c5f0b87"/>
+  </bind>
+  <bind>
+    <task value="44"/>
+    <address value="0x5d07f39c"/>
+  </bind>
+  <bind>
+    <task value="45"/>
+    <address value="0x5db0dbb1"/>
+  </bind>
+  <bind>
+    <task value="46"/>
+    <address value="0x5e59c3c6"/>
+  </bind>
+  <bind>
+    <task value="47"/>
+    <address value="0x5f02abdb"/>
+  </bind>
+  <bind>
+    <task value="48"/>
+    <address value="0x5fab93f0"/>
+  </bind>
+  <bind>
+    <task value="49"/>
+    <address value="0x60547c05"/>
+  </bind>
+  <bind>
+    <task value="50"/>
+    <address value="0x60fd641a"/>
+  </bind>
+  <bind>
+    <task value="51"/>
+    <address value="0x61a64c2f"/>
+  </bind>
+  <bind>
+    <task value="52"/>
+    <address value="0x624f3444"/>
+  </bind>
+  <bind>
+    <task value="53"/>
+    <address value="0x62f81c59"/>
+  </bind>
+  <bind>
+    <task value="54"/>
+    <address value="0x63a1046e"/>
+  </bind>
+  <bind>
+    <task value="55"/>
+    <address value="0x6449ec83"/>
+  </bind>
+  <bind>
+    <task value="56"/>
+    <address value="0x64f2d498"/>
+  </bind>
+  <bind>
+    <task value="57"/>
+    <address value="0x659bbcad"/>
+  </bind>
+  <bind>
+    <task value="58"/>
+    <address value="0x6644a4c2"/>
+  </bind>
+  <bind>
+    <task value="59"/>
+    <address value="0x66ed8cd7"/>
+  </bind>
+  <bind>
+    <task value="60"/>
+    <address value="0x679674ec"/>
+  </bind>
+  <bind>
+    <task value="61"/>
+    <address value="0x683f5d01"/>
+  </bind>
+  <bind>
+    <task value="62"/>
+    <address value="0x68e84516"/>
+  </bind>
+  <bind>
+    <task value="63"/>
+    <address value="0x69912d2b"/>
+  </bind>
+  <bind>
+    <task value="64"/>
+    <address value="0x6a3a1540"/>
+  </bind>
+  <bind>
+    <task value="65"/>
+    <address value="0x6ae2fd55"/>
+  </bind>
+  <bind>
+    <task value="66"/>
+    <address value="0x6b8be56a"/>
+  </bind>
+  <bind>
+    <task value="67"/>
+    <address value="0x6c34cd7f"/>
+  </bind>
+  <bind>
+    <task value="68"/>
+    <address value="0x6cddb594"/>
+  </bind>
+  <bind>
+    <task value="69"/>
+    <address value="0x6d869da9"/>
+  </bind>
+  <bind>
+    <task value="70"/>
+    <address value="0x6e2f85be"/>
+  </bind>
+  <bind>
+    <task value="71"/>
+    <address value="0x6ed86dd3"/>
+  </bind>
+  <bind>
+    <task value="72"/>
+    <address value="0x6f8155e8"/>
+  </bind>
+  <bind>
+    <task value="73"/>
+    <address value="0x702a3dfd"/>
+  </bind>
+  <bind>
+    <task value="74"/>
+    <address value="0x70d32612"/>
+  </bind>
+  <bind>
+    <task value="75"/>
+    <address value="0x717c0e27"/>
+  </bind>
+  <bind>
+    <task value="76"/>
+    <address value="0x7224f63c"/>
+  </bind>
+  <bind>
+    <task value="77"/>
+    <address value="0x72cdde51"/>
+  </bind>
+  <bind>
+    <task value="78"/>
+    <address value="0x7376c666"/>
+  </bind>
+  <bind>
+    <task value="79"/>
+    <address value="0x741fae7b"/>
+  </bind>
+  <bind>
+    <task value="80"/>
+    <address value="0x74c89690"/>
+  </bind>
+  <bind>
+    <task value="81"/>
+    <address value="0x75717ea5"/>
+  </bind>
+  <bind>
+    <task value="82"/>
+    <address value="0x761a66ba"/>
+  </bind>
+  <bind>
+    <task value="83"/>
+    <address value="0x76c34ecf"/>
+  </bind>
+  <bind>
+    <task value="84"/>
+    <address value="0x776c36e4"/>
+  </bind>
+  <bind>
+    <task value="85"/>
+    <address value="0x78151ef9"/>
+  </bind>
+  <bind>
+    <task value="86"/>
+    <address value="0x78be070e"/>
+  </bind>
+  <bind>
+    <task value="87"/>
+    <address value="0x7966ef23"/>
+  </bind>
+  <bind>
+    <task value="88"/>
+    <address value="0x7a0fd738"/>
+  </bind>
+  <bind>
+    <task value="89"/>
+    <address value="0x7ab8bf4d"/>
+  </bind>
+  <bind>
+    <task value="90"/>
+    <address value="0x7b61a762"/>
+  </bind>
+  <bind>
+    <task value="91"/>
+    <address value="0x7c0a8f77"/>
+  </bind>
+  <bind>
+    <task value="92"/>
+    <address value="0x7cb3778c"/>
+  </bind>
+  <bind>
+    <task value="93"/>
+    <address value="0x7d5c5fa1"/>
+  </bind>
+  <bind>
+    <task value="94"/>
+    <address value="0x7e0547b6"/>
+  </bind>
+  <bind>
+    <task value="95"/>
+    <address value="0x7eae2fcb"/>
+  </bind>
+  <bind>
+    <task value="96"/>
+    <address value="0x7f5717e0"/>
+  </bind>
+</map_address>
+<?xml version="1.0" ?>
+<map_cluster>
+  <bind>
+    <node value="0"/>
+    <cluster value="0"/>
+  </bind>
+  <bind>
+    <node value="1"/>
+    <cluster value="1"/>
+  </bind>
+  <bind>
+    <node value="2"/>
+    <cluster value="2"/>
+  </bind>
+  <bind>
+    <node value="3"/>
+    <cluster value="3"/>
+  </bind>
+  <bind>
+    <node value="4"/>
+    <cluster value="4"/>
+  </bind>
+  <bind>
+    <node value="5"/>
+    <cluster value="5"/>
+  </bind>
+  <bind>
+    <node value="6"/>
+    <cluster value="6"/>
+  </bind>
+  <bind>
+    <node value="7"/>
+    <cluster value="6"/>
+  </bind>
+  <bind>
+    <node value="8"/>
+    <cluster value="6"/>
+  </bind>
+  <bind>
+    <node value="9"/>
+    <cluster value="6"/>
+  </bind>
+  <bind>
+    <node value="10"/>
+    <cluster value="6"/>
+  </bind>
+  <bind>
+    <node value="11"/>
+    <cluster value="6"/>
+  </bind>
+  <bind>
+    <node value="12"/>
+    <cluster value="6"/>
+  </bind>
+  <bind>
+    <node value="13"/>
+    <cluster value="13"/>
+  </bind>
+  <bind>
+    <node value="14"/>
+    <cluster value="14"/>
+  </bind>
+  <bind>
+    <node value="15"/>
+    <cluster value="15"/>
+  </bind>
+</map_cluster>
+<?xml version="1.0" ?>
+<map_parameters>
+  <bind>
+    <param value="1"/>
+    <address value="0x40001000"/>
+    <size value="1234"/>
+  </bind>
+</map_parameters>
+<?xml version="1.0" ?>
+<task_parameters>
+  <bind>
+    <node value="0"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="1"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="2"/>
+    <param_list value="[1]"/>
+  </bind>
+  <bind>
+    <node value="3"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="4"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="5"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="6"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="7"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="8"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="9"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="10"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="11"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="12"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="13"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="14"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="15"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="16"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="17"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="18"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="19"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="20"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="21"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="22"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="23"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="24"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="25"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="26"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="27"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="28"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="29"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="30"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="31"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="32"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="33"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="34"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="35"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="36"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="37"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="38"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="39"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="40"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="41"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="42"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="43"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="44"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="45"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="46"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="47"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="48"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="49"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="50"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="51"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="52"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="53"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="54"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="55"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="56"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="57"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="58"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="59"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="60"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="61"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="62"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="63"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="64"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="65"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="66"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="67"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="68"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="69"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="70"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="71"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="72"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="73"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="74"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="75"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="76"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="77"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="78"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="79"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="80"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="81"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="82"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="83"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="84"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="85"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="86"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="87"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="88"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="89"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="90"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="91"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="92"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="93"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="94"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="95"/>
+    <param_list value="[]"/>
+  </bind>
+  <bind>
+    <node value="96"/>
+    <param_list value="[]"/>
+  </bind>
+</task_parameters>

@@ -1,0 +1,395 @@
+<?xml version="1.0" ?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <bind>
+    <task value="0"/>
+    <node value="15"/>
+  </bind>
+  <bind>
+    <task value="1"/>
+    <node value="15"/>
+  </bind>
+  <bind>
+    <task value="2"/>
+    <node value="15"/>
+  </bind>
+  <bind>
+    <task value="3"/>
+    <node value="15"/>
+  </bind>
+  <bind>
+    <task value="10"/>
+    <node value="7"/>
+  </bind>
+  <bind>
+    <task value="8"/>
+    <node value="7"/>
+  </bind>
+  <bind>
+    <task value="9"/>
+    <node value="7"/>
+  </bind>
+  <bind>
+    <task value="11"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="12"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="13"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="14"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="15"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="16"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="7"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="17"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="18"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="19"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="20"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="21"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="22"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="23"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="24"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="25"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="26"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="27"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="28"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="29"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="30"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="31"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="32"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="33"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="34"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="35"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="36"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="37"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="38"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="39"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="40"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="41"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="42"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="43"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="44"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="45"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="46"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="47"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="48"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="49"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="50"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="51"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="52"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="4"/>
+    <node value="11"/>
+  </bind>
+  <bind>
+    <task value="5"/>
+    <node value="11"/>
+  </bind>
+  <bind>
+    <task value="6"/>
+    <node value="11"/>
+  </bind>
+  <bind>
+    <task value="53"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="54"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="55"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="56"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="57"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="58"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="59"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="60"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="61"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="65"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="66"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="67"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="68"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="69"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="62"/>
+    <node value="4"/>
+  </bind>
+  <bind>
+    <task value="63"/>
+    <node value="4"/>
+  </bind>
+  <bind>
+    <task value="64"/>
+    <node value="4"/>
+  </bind>
+  <bind>
+    <task value="70"/>
+    <node value="15"/>
+  </bind>
+  <bind>
+    <task value="71"/>
+    <node value="7"/>
+  </bind>
+  <bind>
+    <task value="72"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="73"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="74"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="75"/>
+    <node value="11"/>
+  </bind>
+  <bind>
+    <task value="76"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="77"/>
+    <node value="4"/>
+  </bind>
+  <bind>
+    <task value="78"/>
+    <node value="15"/>
+  </bind>
+  <bind>
+    <task value="79"/>
+    <node value="15"/>
+  </bind>
+  <bind>
+    <task value="80"/>
+    <node value="11"/>
+  </bind>
+  <bind>
+    <task value="81"/>
+    <node value="11"/>
+  </bind>
+  <bind>
+    <task value="82"/>
+    <node value="7"/>
+  </bind>
+  <bind>
+    <task value="83"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="84"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="85"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="86"/>
+    <node value="6"/>
+  </bind>
+  <bind>
+    <task value="87"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="88"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="89"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="90"/>
+    <node value="5"/>
+  </bind>
+  <bind>
+    <task value="91"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="92"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="93"/>
+    <node value="1"/>
+  </bind>
+  <bind>
+    <task value="94"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="95"/>
+    <node value="4"/>
+  </bind>
+  <bind>
+    <task value="96"/>
+    <node value="0"/>
+  </bind>
+  <bind>
+    <task value="97"/>
+    <node value="0"/>
+  </bind>
+</map>

@@ -1,0 +1,1 @@
+scons build/X86_MESI_Two_Level/gem5.opt PROTOCOL=MESI_Two_Level -j 12
